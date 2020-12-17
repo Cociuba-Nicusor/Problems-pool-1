@@ -14,7 +14,7 @@ namespace Pool1._13
             y2 = int.Parse(Console.ReadLine());
             for(i=y1;i<=y2;i++)
             {
-                if (i % 4 == 0 && i % 100 == 0  i % 400 == 0)
+                if (i % 4 == 0 && i % 100 != 0 || i % 400 == 0)
                     n++;
             }
             Console.WriteLine($"Intre anii {y1} si {y2} sunt {n} ani bisecti.");

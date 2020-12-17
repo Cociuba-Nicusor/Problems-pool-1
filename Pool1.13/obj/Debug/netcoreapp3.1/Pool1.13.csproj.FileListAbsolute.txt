@@ -10,3 +10,4 @@ C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.13\obj\Debug\netcoreapp3.1\Po
 C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.13\obj\Debug\netcoreapp3.1\Pool1.13.dll
 C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.13\obj\Debug\netcoreapp3.1\Pool1.13.pdb
 C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.13\obj\Debug\netcoreapp3.1\Pool1.13.genruntimeconfig.cache
+C:\Users\Andrei\Source\Repos\Problems-pool-1\Pool1.13\obj\Debug\netcoreapp3.1\Pool1.13.csprojAssemblyReference.cache

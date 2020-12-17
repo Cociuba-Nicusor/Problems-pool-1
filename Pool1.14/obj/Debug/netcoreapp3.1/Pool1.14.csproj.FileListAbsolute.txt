@@ -1,0 +1,13 @@
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\obj\Debug\netcoreapp3.1\Pool1.14.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\obj\Debug\netcoreapp3.1\Pool1.14.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\obj\Debug\netcoreapp3.1\Pool1.14.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\obj\Debug\netcoreapp3.1\Pool1.14.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\bin\Debug\netcoreapp3.1\Pool1.14.exe
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\bin\Debug\netcoreapp3.1\Pool1.14.deps.json
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\bin\Debug\netcoreapp3.1\Pool1.14.runtimeconfig.json
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\bin\Debug\netcoreapp3.1\Pool1.14.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\bin\Debug\netcoreapp3.1\Pool1.14.dll
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\bin\Debug\netcoreapp3.1\Pool1.14.pdb
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\obj\Debug\netcoreapp3.1\Pool1.14.dll
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\obj\Debug\netcoreapp3.1\Pool1.14.pdb
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.14\obj\Debug\netcoreapp3.1\Pool1.14.genruntimeconfig.cache

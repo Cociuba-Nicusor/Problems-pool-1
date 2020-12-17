@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrei\\Source\\Repos\\Problems-pool-1\\Pool1.4\\Pool1.4.csproj": {}
+    "C:\\Users\\Andrei\\source\\repos\\Problems-pool-1\\Pool1.14\\Pool1.14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrei\\Source\\Repos\\Problems-pool-1\\Pool1.4\\Pool1.4.csproj": {
+    "C:\\Users\\Andrei\\source\\repos\\Problems-pool-1\\Pool1.14\\Pool1.14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrei\\Source\\Repos\\Problems-pool-1\\Pool1.4\\Pool1.4.csproj",
-        "projectName": "Pool1.4",
-        "projectPath": "C:\\Users\\Andrei\\Source\\Repos\\Problems-pool-1\\Pool1.4\\Pool1.4.csproj",
+        "projectUniqueName": "C:\\Users\\Andrei\\source\\repos\\Problems-pool-1\\Pool1.14\\Pool1.14.csproj",
+        "projectName": "Pool1.14",
+        "projectPath": "C:\\Users\\Andrei\\source\\repos\\Problems-pool-1\\Pool1.14\\Pool1.14.csproj",
         "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrei\\Source\\Repos\\Problems-pool-1\\Pool1.4\\obj\\",
+        "outputPath": "C:\\Users\\Andrei\\source\\repos\\Problems-pool-1\\Pool1.14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
