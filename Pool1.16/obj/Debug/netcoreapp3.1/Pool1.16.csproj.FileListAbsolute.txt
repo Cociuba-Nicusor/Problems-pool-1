@@ -1,0 +1,13 @@
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\bin\Debug\netcoreapp3.1\Pool1.16.exe
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\bin\Debug\netcoreapp3.1\Pool1.16.deps.json
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\bin\Debug\netcoreapp3.1\Pool1.16.runtimeconfig.json
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\bin\Debug\netcoreapp3.1\Pool1.16.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\bin\Debug\netcoreapp3.1\Pool1.16.dll
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\bin\Debug\netcoreapp3.1\Pool1.16.pdb
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\obj\Debug\netcoreapp3.1\Pool1.16.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\obj\Debug\netcoreapp3.1\Pool1.16.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\obj\Debug\netcoreapp3.1\Pool1.16.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\obj\Debug\netcoreapp3.1\Pool1.16.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\obj\Debug\netcoreapp3.1\Pool1.16.dll
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\obj\Debug\netcoreapp3.1\Pool1.16.pdb
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.16\obj\Debug\netcoreapp3.1\Pool1.16.genruntimeconfig.cache
