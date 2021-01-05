@@ -81,9 +81,6 @@ namespace Pool1._16
             }
             Console.WriteLine($"{a},{b},{c},{d},{e}");
             Console.ReadKey();
-
-
-
         }
     }
 }
