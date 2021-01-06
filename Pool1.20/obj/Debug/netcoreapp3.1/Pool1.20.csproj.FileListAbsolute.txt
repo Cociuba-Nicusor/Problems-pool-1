@@ -1,0 +1,12 @@
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\bin\Debug\netcoreapp3.1\Pool1.20.exe
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\bin\Debug\netcoreapp3.1\Pool1.20.deps.json
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\bin\Debug\netcoreapp3.1\Pool1.20.runtimeconfig.json
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\bin\Debug\netcoreapp3.1\Pool1.20.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\bin\Debug\netcoreapp3.1\Pool1.20.dll
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\bin\Debug\netcoreapp3.1\Pool1.20.pdb
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\obj\Debug\netcoreapp3.1\Pool1.20.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\obj\Debug\netcoreapp3.1\Pool1.20.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\obj\Debug\netcoreapp3.1\Pool1.20.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\obj\Debug\netcoreapp3.1\Pool1.20.dll
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\obj\Debug\netcoreapp3.1\Pool1.20.pdb
+C:\Users\Andrei\source\repos\Problems-pool-1\Pool1.20\obj\Debug\netcoreapp3.1\Pool1.20.genruntimeconfig.cache
